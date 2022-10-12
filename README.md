@@ -2,6 +2,9 @@
 
 A simple project that generates named pairs for a start-up name. You can favourite the names and keep a record of the names you saved in your mobile device.
 
+## Screenshots
+
+
 ## Getting Started
 
 This project was built using the following code-lab resources:
